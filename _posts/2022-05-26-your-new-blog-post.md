@@ -2,9 +2,9 @@
 
 writing some random things
 
+$e^{i \pi} + 1 = 0$
+
  ```tsql
- 
- $e^{i \pi} = -1$
  SELECT *
  FROM sys.tables
  WHERE [name] = 'SomeTable'

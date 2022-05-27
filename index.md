@@ -1,1 +1,1 @@
-sharing stuff I have learnt; diverse math topics are approached (vaguely) as motivation aswell.
+sharing math stuff I have learnt; diverse math topics are approached here to keep myself motivated.

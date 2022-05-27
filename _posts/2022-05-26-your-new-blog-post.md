@@ -2,8 +2,7 @@
 
 writing some random things
 
-$\big$
-$e^{i \pi} + 1 = 0$
+start with Eulers identity $e^{i \pi} + 1 = 0$ 
 
  ```tsql
  SELECT *

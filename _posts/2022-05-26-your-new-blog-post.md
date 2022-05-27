@@ -1,6 +1,5 @@
-## This is my first blog post
+## Lie Groups and Algebras
 
-writing some random things
 
 Def. A Lie Algebra is a bilinear form <img src="https://latex.codecogs.com/svg.image?\inline&space;\Large&space;\bg{black}V\times&space;V&space;\rightarrow&space;V" title="https://latex.codecogs.com/svg.image?\inline \Large \bg{black}V\times V \rightarrow V" /> on a vector space <img src="https://latex.codecogs.com/svg.image?\inline&space;\Large&space;\bg{black}V&space;" title="https://latex.codecogs.com/svg.image?\inline \Large \bg{black}V " /> s.t. the Jacobi Identity <img src="https://latex.codecogs.com/svg.image?\inline&space;\Large&space;\bg{black}[[X,Y],Z]&plus;[[Y,Z],X]&plus;[[Z,X],Y]=0" title="https://latex.codecogs.com/svg.image?\inline \Large \bg{black}[[X,Y],Z]+[[Y,Z],X]+[[Z,X],Y]=0" />.
 

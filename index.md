@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+sharing stuff I have learnt; diverse math topics are approached (vaguely) as motivation aswell.

@@ -2,7 +2,7 @@
 
 writing some random things
 
-start with Eulers identity <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+start with Eulers identity <img src="https://render.githubusercontent.com/render/math?math=\large e^{i \pi} = -1">
 
  ```tsql
  SELECT *

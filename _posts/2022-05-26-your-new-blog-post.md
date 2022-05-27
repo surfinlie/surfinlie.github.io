@@ -2,9 +2,9 @@
 
 writing some random things
 
-start with Eulers identity <img src="https://render.githubusercontent.com/render/math?math=\LARGE e^{i \pi} = -1">
+start with Eulers identity 
 
-<img src="https://render.githubusercontent.com/render/math?math=e%5E%7Bi%5Cpi%7D%0A">
+<img src="https://latex.codecogs.com/svg.image?e^{i\pi}&plus;1=0&space;" title="https://latex.codecogs.com/svg.image?e^{i\pi}+1=0 " />
 
  ```tsql
  SELECT *

@@ -1,6 +1,6 @@
-## Introducing Lie Groups and Algebras via Category-theoretic notation
+## Introduction to Lie groups and algebras via category-theoretic notation
 
-0) Category of vector spaces, morphisms and linear Maps
+0) category of vector spaces, morphisms
 1) 
 2)
 3)

@@ -3,7 +3,7 @@
 #### Category theory provides the framework and language to write mathematical objects in terms of their categories. Here we provide a comprehensive view on the construction of Lie objects via their categorical representations. 
 
 #### Here is the recipe 
-<img src="https://latex.codecogs.com/svg.image?\inline&space;\LARGE&space;(\texttt{C}_0)" title="https://latex.codecogs.com/svg.image?\inline \LARGE (\texttt{C}_0)" /> the category of vector spaces followed by morphisms
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\large&space;(\texttt{C}_0)" title="https://latex.codecogs.com/svg.image?\inline \large (\texttt{C}_0)" /> the category of vector spaces followed by morphisms
 
 A Lie group is a group and a differentiable manifold. 
 A Lie algebra is the infinitesimal representation of a Lie group.

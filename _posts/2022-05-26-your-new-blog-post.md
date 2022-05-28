@@ -1,7 +1,6 @@
 ## Introduction to Lie groups and algebras via category-theoretic notation
 
-Category theory provides the framework and language to write mathematical objects in terms of their categories. Here we provide a comprehensive view on the construction of Lie objects via their categorical representations. None other than linear algebra and elementary group theory are needed in order to follow up with this construction; we try to fill in some of the gaps as we go along.
-
+Category theory provides the framework and language to write mathematical objects in terms of their categories. Here we provide a comprehensive view on the construction of Lie objects via their categorical representations.
 0) category of vector spaces, morphisms
 1) 
 2)

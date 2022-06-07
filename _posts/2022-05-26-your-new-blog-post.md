@@ -1,8 +1,10 @@
-## Introduction to Lie groups and algebras via category-theoretic notation
+## The struggle over Mathematics
 
 #### Category theory provides the framework and language to write mathematical objects in terms of their categories. Here we provide a comprehensive view on the construction of Lie objects via their categorical representations. 
 
 #### <img src="https://latex.codecogs.com/svg.image?\inline&space;\large&space;(\texttt{C}_0)" title="https://latex.codecogs.com/svg.image?\inline \large (\texttt{C}_0)" /> the category of vector spaces, morphisms
+
+I was never good at math, in fact I failed most of times in math tests and exams, speccialy during high school. At this stage I didn't know what I's dealing with. At that stage learning mathematics seemed not only a difficult task but a task that I knew I wans't good at due to my history with it.  
 
 A Lie group is a group and a differentiable manifold. 
 A Lie algebra is the infinitesimal representation of a Lie group.
